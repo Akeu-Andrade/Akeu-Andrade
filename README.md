@@ -13,7 +13,7 @@ I'm Akeu, a full stack web developer.
  Usar o botão Win + V é vida! <br/>
 </h4>
 
-<img alt="Coding" src="https://instagram.faju6-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/64570104_1879279298838977_4639570187799914005_n.jpg?_nc_ht=instagram.faju6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=P1m4smSpLB8AX-oG-9Y&tp=1&oh=e629fa87b7ab26f958ba0d64ecdaa4a0&oe=603F0AD4" align="right" width="150"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="150"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -44,12 +44,12 @@ I'm Akeu, a full stack web developer.
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayssasandrade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayssasandrade&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akeu-Andrade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akeu-Andrade&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-[![Linkedin Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718749-linkedin_83603.png)](https://www.linkedin.com/in/rayssa-andrade-7785041a3/)
-[![Instagram Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718764-instagram_83597.png)](https://www.instagram.com/rayssa_s.andrade/)
-[![Email Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718759-mail_83619.png)](mailto:rayssa.andrade071@outlook.com)
+[![Linkedin Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718749-linkedin_83603.png)](https://https://www.linkedin.com/in/akeuandrade/)
+[![Instagram Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718764-instagram_83597.png)](https://www.instagram.com/akeu_andrade/)
+[![Email Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718759-mail_83619.png)](mailto:akeusantana@gmail.com)
