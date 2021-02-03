@@ -1,11 +1,9 @@
-<h3 align="center"> Hi 👋</h3>
-
-<p align="center">
+<p align="right">
 I'm Akeu, a full stack web developer.
 </p>
 
-<h4 align="center">
-💡 &nbsp;Eu gosto de utilizar a tecnologia para facilitar "processos" tediosos.  <br />
+<h4 align="left">
+💡  &nbsp;Eu gosto de utilizar a tecnologia para facilitar "processos" tediosos.  <br />
 🎓 &nbsp;Bacharelado em Sistemas de Informação no Instituto Federal de Ciência e Tecnologia de Sergipe.  <br />
 🔎 &nbsp;Tenho minhas preferências de ferramantas, porém sou sempre aberto a novas <br/>
 🎮 &nbsp;No meu tempo livre eu costumo buscar conteúdos tecnológico de softwares e hardwares, e um pouco de gamer <br/>
@@ -13,7 +11,7 @@ I'm Akeu, a full stack web developer.
  Usar o botão Win + V é vida! <br/>
 </h4>
 
-<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="150"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" width="150"/>
 
 ### 🛠 &nbsp;Tech Stack
 
