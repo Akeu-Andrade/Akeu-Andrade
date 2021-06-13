@@ -1,17 +1,8 @@
-<img alt="banner" src="https://firebasestorage.googleapis.com/v0/b/githubme-6cad8.appspot.com/o/bannergit.png?alt=media&token=5dd91d0a-f097-450b-af6d-3b4de62335b9" align"left" width="150"/>
+<img alt="banner" src="https://firebasestorage.googleapis.com/v0/b/githubme-6cad8.appspot.com/o/bannergit.png?alt=media&token=5dd91d0a-f097-450b-af6d-3b4de62335b9"/>
 
 <p align="right">
 I'm Akeu, a full stack web developer.
 </p>
-
-<h4 align="left">
-💡  &nbsp;Eu gosto de utilizar a tecnologia para facilitar "processos" tediosos.  <br />
-🎓 &nbsp;Bacharelado em Sistemas de Informação no Instituto Federal de Ciência e Tecnologia de Sergipe.  <br />
-🔎 &nbsp;Tenho minhas preferências de ferramantas, porém sou sempre aberto a novas <br/>
-🎮 &nbsp;No meu tempo livre eu costumo buscar conteúdos tecnológico de softwares e hardwares, e um pouco de gamer <br/>
-💪 &nbsp;Eu não sou de desistir <br/>
- Usar o botão Win + V é vida! <br/>
-</h4>
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" width="150"/>
 
