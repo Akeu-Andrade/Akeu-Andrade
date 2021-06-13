@@ -1,3 +1,5 @@
+<img alt="banner" src="https://firebasestorage.googleapis.com/v0/b/githubme-6cad8.appspot.com/o/bannergit.png?alt=media&token=5dd91d0a-f097-450b-af6d-3b4de62335b9" align"left" width="150"/>
+
 <p align="right">
 I'm Akeu, a full stack web developer.
 </p>
