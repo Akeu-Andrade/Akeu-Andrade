@@ -1,4 +1,4 @@
-<img alt="banner" src="https://firebasestorage.googleapis.com/v0/b/githubme-6cad8.appspot.com/o/bannergit.png?alt=media&token=5dd91d0a-f097-450b-af6d-3b4de62335b9"/>
+<img alt="banner" src="https://firebasestorage.googleapis.com/v0/b/githubme-6cad8.appspot.com/o/bannergit.png?alt=media&token=9db04926-b47d-4bab-b876-563e9a904bd9"/>
 
 <p align="right">
 I'm Akeu, a full stack web developer.
