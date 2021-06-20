@@ -6,10 +6,11 @@ on:
     - cron: "0 */6 * * *"
 
 jobs:
-  generate:
+  build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
+      # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
