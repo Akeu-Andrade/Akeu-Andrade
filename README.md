@@ -40,5 +40,5 @@ I'm Akeu, a full stack web developer.
 [![Instagram Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718764-instagram_83597.png)](https://www.instagram.com/akeu_andrade/)
 [![Email Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718759-mail_83619.png)](mailto:akeusantana@gmail.com)
 
-![github contribution grid snake animation](https://github.com/Akeu-Andrade/Akeu-Andrade/blob/output/github-user-contribution.svg)
+![github contribution grid snake animation](https://github.com/Akeu-Andrade/Akeu-Andrade/blob/output/github-contribution-grid-snake.svg)
 
