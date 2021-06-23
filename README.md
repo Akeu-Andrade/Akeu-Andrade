@@ -1,9 +1,5 @@
 <img alt="banner" src="https://firebasestorage.googleapis.com/v0/b/githubme-6cad8.appspot.com/o/bannergit.png?alt=media&token=9bea0b34-3247-4fb4-b26b-39558838ef1b"/>
 
-<p align="right">
-I'm Akeu, a full stack web developer.
-</p>
-
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" width="150"/>
 
 ### 🛠 &nbsp;Tech Stack
