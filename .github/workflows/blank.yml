@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */1 * * *"
+    - cron: "* */12 * * *"
 
 jobs:
   build:
