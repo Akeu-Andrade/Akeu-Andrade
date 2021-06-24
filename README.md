@@ -19,7 +19,7 @@
 ![Spring](https://img.shields.io/badge/-Spring%20boot-05122A?style=flat&logo=springboot)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![.Net](https://img.shields.io/badge/-.NET%20CORE-05122A?style=flat&logo=dotnet)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=laravel)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
