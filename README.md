@@ -25,6 +25,7 @@
 
 ##### 🛠 Design tools
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=008080)&nbsp;
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-05122A?style=flat&logo=coreldraw&logoColor=008080)&nbsp;
 
 ##### 🛠 Others
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
