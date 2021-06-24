@@ -2,7 +2,7 @@
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" width="150"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack <a align="right" href="https://github.com/Akeu-Andrade/Akeu-Andrade"><img  align="right" alt="visitas" title="Visitas Perfil GitHub" src="https://github-contador-visitas-akeu.herokuapp.com/"/></a>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007396)&nbsp;
