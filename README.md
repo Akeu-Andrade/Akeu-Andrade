@@ -49,7 +49,6 @@
 </a>
 </p>
 
-![github contribution grid snake animation](https://github.com/Akeu-Andrade/Akeu-Andrade/blob/output/github-contribution-grid-snake.svg)
 
 ### 🤝🏻 &nbsp;Connect with Me
 [![Linkedin Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718749-linkedin_83603.png)](https://www.linkedin.com/in/akeuandrade/)
