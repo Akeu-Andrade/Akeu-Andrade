@@ -9,6 +9,7 @@
 ![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp&logoColor=007396)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 
 ##### 🛠 Query languages
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=Microsoft-SQL-Server&logoColor=CC2927)&nbsp;
